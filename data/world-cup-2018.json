@@ -420,8 +420,8 @@
                     "home_team": "Egypt",
                     "away_team_id": 4,
                     "away_team": "Uruguay",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "1",
                     "date": "2018-06-15T12:00:00+00:00",
                     "stadium_id": 12,
                     "channels": [
@@ -429,7 +429,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": 112,
                     "finished": false,
                     "matchday": 1
                 },
