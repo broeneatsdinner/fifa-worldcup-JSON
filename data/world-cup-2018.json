@@ -547,8 +547,8 @@
                     "home_team": "Morocco",
                     "away_team_id": 8,
                     "away_team": "Iran",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "0",
                     "date": "2018-06-15T15:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -556,7 +556,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": 53,
                     "finished": false,
                     "matchday": 1
                 },
