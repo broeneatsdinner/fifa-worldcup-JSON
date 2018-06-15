@@ -527,7 +527,7 @@
                     "home_team": "Portugal",
                     "away_team_id": 6,
                     "away_team": "Spain",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "1",
                     "date": "2018-06-15T18:00:00+00:00",
                     "stadium_id": 11,
@@ -536,7 +536,7 @@
                         7,
                         13
                     ],
-                    "time_elapsed": 26,
+                    "time_elapsed": 50,
                     "finished": false,
                     "matchday": 1
                 },
