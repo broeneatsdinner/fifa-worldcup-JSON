@@ -781,8 +781,8 @@
                     "home_team": "Argentina",
                     "away_team_id": 14,
                     "away_team": "Iceland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "1",
+                    "away_score": "1",
                     "date": "2018-06-16T13:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -790,8 +790,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": null,
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 1
                 },
                 {
