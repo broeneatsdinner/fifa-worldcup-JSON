@@ -654,8 +654,8 @@
                     "home_team": "France",
                     "away_team_id": 10,
                     "away_team": "Australia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "2",
+                    "away_score": "1",
                     "date": "2018-06-16T10:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -663,8 +663,8 @@
                         6,
                         14
                     ],
-                    "time_elapsed": null,
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 1
                 },
                 {
