@@ -1055,7 +1055,7 @@
                     "home_team": "Sweden",
                     "away_team_id": 24,
                     "away_team": "South Korea",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "0",
                     "date": "2018-06-18T12:00:00+00:00",
                     "stadium_id": 6,
@@ -1064,7 +1064,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "64'",
+                    "time_elapsed": "71'",
                     "finished": false,
                     "matchday": 1
                 },
