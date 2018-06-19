@@ -402,6 +402,8 @@
                     "away_team": "Saudi Arabia",
                     "home_score": "5",
                     "away_score": "0",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-14T15:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
@@ -422,6 +424,8 @@
                     "away_team": "Uruguay",
                     "home_score": "0",
                     "away_score": "1",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-15T12:00:00+00:00",
                     "stadium_id": 12,
                     "channels": [
@@ -442,6 +446,8 @@
                     "away_team": "Egypt",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-19T18:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -462,6 +468,8 @@
                     "away_team": "Saudi Arabia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-20T15:00:00+00:00",
                     "stadium_id": 10,
                     "channels": [
@@ -482,6 +490,8 @@
                     "away_team": "Russia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-25T14:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
@@ -502,6 +512,8 @@
                     "away_team": "Egypt",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-25T14:00:00+00:00",
                     "stadium_id": 8,
                     "channels": [
@@ -529,6 +541,8 @@
                     "away_team": "Spain",
                     "home_score": "3",
                     "away_score": "3",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-15T18:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
@@ -549,6 +563,8 @@
                     "away_team": "Iran",
                     "home_score": "0",
                     "away_score": "0",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-15T15:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -569,6 +585,8 @@
                     "away_team": "Morocco",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-20T12:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
@@ -589,6 +607,8 @@
                     "away_team": "Spain",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-20T18:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -609,6 +629,8 @@
                     "away_team": "Portugal",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-25T18:00:00+00:00",
                     "stadium_id": 9,
                     "channels": [
@@ -629,6 +651,8 @@
                     "away_team": "Morocco",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-25T18:00:00+00:00",
                     "stadium_id": 4,
                     "channels": [
@@ -656,6 +680,8 @@
                     "away_team": "Australia",
                     "home_score": "2",
                     "away_score": "1",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-16T10:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -676,6 +702,8 @@
                     "away_team": "Denmark",
                     "home_score": "0",
                     "away_score": "1",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-16T16:00:00+00:00",
                     "stadium_id": 9,
                     "channels": [
@@ -696,6 +724,8 @@
                     "away_team": "Peru",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-21T15:00:00+00:00",
                     "stadium_id": 12,
                     "channels": [
@@ -716,6 +746,8 @@
                     "away_team": "Australia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-21T12:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
@@ -736,6 +768,8 @@
                     "away_team": "France",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-26T14:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
@@ -756,6 +790,8 @@
                     "away_team": "Peru",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-26T14:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
@@ -783,6 +819,8 @@
                     "away_team": "Iceland",
                     "home_score": "1",
                     "away_score": "1",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-16T13:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -803,6 +841,8 @@
                     "away_team": "Nigeria",
                     "home_score": "2",
                     "away_score": "0",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-16T19:00:00+00:00",
                     "stadium_id": 4,
                     "channels": [
@@ -823,6 +863,8 @@
                     "away_team": "Croatia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-21T18:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
@@ -843,6 +885,8 @@
                     "away_team": "Iceland",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-22T15:00:00+00:00",
                     "stadium_id": 8,
                     "channels": [
@@ -863,6 +907,8 @@
                     "away_team": "Argentina",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-26T18:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -883,6 +929,8 @@
                     "away_team": "Croatia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-26T18:00:00+00:00",
                     "stadium_id": 10,
                     "channels": [
@@ -910,6 +958,8 @@
                     "away_team": "Switzerland",
                     "home_score": "1",
                     "away_score": "1",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-17T18:00:00+00:00",
                     "stadium_id": 10,
                     "channels": [
@@ -930,6 +980,8 @@
                     "away_team": "Serbia",
                     "home_score": "0",
                     "away_score": "1",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-17T12:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
@@ -950,6 +1002,8 @@
                     "away_team": "Costa Rica",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-22T12:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -970,6 +1024,8 @@
                     "away_team": "Switzerland",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-22T18:00:00+00:00",
                     "stadium_id": 4,
                     "channels": [
@@ -990,6 +1046,8 @@
                     "away_team": "Brazil",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-27T18:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1010,6 +1068,8 @@
                     "away_team": "Costa Rica",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-27T18:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
@@ -1037,6 +1097,8 @@
                     "away_team": "Mexico",
                     "home_score": "0",
                     "away_score": "1",
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-17T15:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
@@ -1079,6 +1141,8 @@
                     "away_team": "Sweden",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-23T18:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
@@ -1099,6 +1163,8 @@
                     "away_team": "Mexico",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-23T15:00:00+00:00",
                     "stadium_id": 10,
                     "channels": [
@@ -1119,6 +1185,8 @@
                     "away_team": "Germany",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-27T14:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -1139,6 +1207,8 @@
                     "away_team": "Sweden",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-27T14:00:00+00:00",
                     "stadium_id": 12,
                     "channels": [
@@ -1210,6 +1280,8 @@
                     "away_team": "Tunisia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-23T12:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1230,6 +1302,8 @@
                     "away_team": "Panama",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-24T12:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
@@ -1250,6 +1324,8 @@
                     "away_team": "Belgium",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-28T18:00:00+00:00",
                     "stadium_id": 4,
                     "channels": [
@@ -1270,6 +1346,8 @@
                     "away_team": "Tunisia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-28T18:00:00+00:00",
                     "stadium_id": 9,
                     "channels": [
@@ -1297,6 +1375,8 @@
                     "away_team": "Senegal",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-19T15:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1317,6 +1397,8 @@
                     "away_team": "Japan",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-19T12:00:00+00:00",
                     "stadium_id": 9,
                     "channels": [
@@ -1337,6 +1419,8 @@
                     "away_team": "Colombia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-24T15:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -1357,6 +1441,8 @@
                     "away_team": "Senegal",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-24T18:00:00+00:00",
                     "stadium_id": 12,
                     "channels": [
@@ -1377,6 +1463,8 @@
                     "away_team": "Poland",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-28T14:00:00+00:00",
                     "stadium_id": 8,
                     "channels": [
@@ -1397,6 +1485,8 @@
                     "away_team": "Colombia",
                     "home_score": null,
                     "away_score": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-28T14:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
@@ -1425,6 +1515,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-30T14:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
@@ -1445,6 +1537,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-06-30T18:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -1466,6 +1560,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-01T14:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
@@ -1486,6 +1582,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-01T18:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
@@ -1507,6 +1605,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-02T14:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
@@ -1528,6 +1628,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-02T18:00:00+00:00",
                     "stadium_id": 10,
                     "channels": [
@@ -1549,6 +1651,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-03T14:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -1570,6 +1674,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-03T18:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1596,6 +1702,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-06T14:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
@@ -1616,6 +1724,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-06T18:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -1636,6 +1746,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-07T18:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
@@ -1656,6 +1768,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-07T14:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
@@ -1682,6 +1796,8 @@
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-10T18:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -1703,6 +1819,8 @@
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-11T18:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
@@ -1728,6 +1846,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-14T14:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -1753,6 +1873,8 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
+                    "home_scorers": null,
+                    "away_scorers": null,
                     "date": "2018-07-15T15:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
