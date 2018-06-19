@@ -446,7 +446,7 @@
                     "away_team": "Egypt",
                     "home_score": "1",
                     "away_score": "0",
-                    "home_scorers": null,
+                    "home_scorers": "Ahmed Fathy 47' ",
                     "away_scorers": null,
                     "date": "2018-06-19T18:00:00+00:00",
                     "stadium_id": 3,
@@ -455,7 +455,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "49'",
+                    "time_elapsed": "55'",
                     "finished": false,
                     "matchday": 2
                 },
