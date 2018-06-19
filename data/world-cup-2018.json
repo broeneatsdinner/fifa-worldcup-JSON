@@ -1397,7 +1397,7 @@
                     "away_team": "Japan",
                     "home_score": "1",
                     "away_score": "1",
-                    "home_scorers": null,
+                    "home_scorers": "J. Quintero 39' ",
                     "away_scorers": "S. Kagawa 6' ",
                     "date": "2018-06-19T12:00:00+00:00",
                     "stadium_id": 9,
@@ -1406,7 +1406,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "41'",
+                    "time_elapsed": "44'",
                     "finished": false,
                     "matchday": 1
                 },
