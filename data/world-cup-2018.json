@@ -1376,7 +1376,7 @@
                     "home_score": "0",
                     "away_score": "1",
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "Thiago Cionek 37' ",
                     "date": "2018-06-19T15:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1384,7 +1384,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "41'",
+                    "time_elapsed": "Half Time",
                     "finished": false,
                     "matchday": 1
                 },
