@@ -1373,9 +1373,9 @@
                     "away_team_id": 30,
                     "home_team": "Poland",
                     "away_team": "Senegal",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "2",
-                    "home_scorers": null,
+                    "home_scorers": "G. Krychowiak 86' ",
                     "away_scorers": "M. Niang 60' Thiago Cionek 37' ",
                     "date": "2018-06-19T15:00:00+00:00",
                     "stadium_id": 2,
@@ -1384,7 +1384,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "86'",
+                    "time_elapsed": "90'",
                     "finished": false,
                     "matchday": 1
                 },
