@@ -1395,7 +1395,7 @@
                     "away_team_id": 32,
                     "home_team": "Colombia",
                     "away_team": "Japan",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "1",
                     "home_scorers": null,
                     "away_scorers": "S. Kagawa 6' ",
@@ -1406,7 +1406,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "37'",
+                    "time_elapsed": "41'",
                     "finished": false,
                     "matchday": 1
                 },
