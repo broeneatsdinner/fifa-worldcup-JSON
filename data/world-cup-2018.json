@@ -445,9 +445,9 @@
                     "home_team": "Russia",
                     "away_team": "Egypt",
                     "home_score": "3",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_scorers": "A. Dzyuba 62' D. Cheryshev 59' Ahmed Fathy 47' ",
-                    "away_scorers": null,
+                    "away_scorers": "Mohamed Salah 73' ",
                     "date": "2018-06-19T18:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -455,7 +455,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "71'",
+                    "time_elapsed": "76'",
                     "finished": false,
                     "matchday": 2
                 },
