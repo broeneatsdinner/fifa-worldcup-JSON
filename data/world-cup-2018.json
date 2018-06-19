@@ -1398,7 +1398,7 @@
                     "home_score": "0",
                     "away_score": "1",
                     "home_scorers": null,
-                    "away_scorers": "S. Kagawa 6 ",
+                    "away_scorers": "S. Kagawa 6' ",
                     "date": "2018-06-19T12:00:00+00:00",
                     "stadium_id": 9,
                     "channels": [
@@ -1406,7 +1406,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "6'",
+                    "time_elapsed": "11'",
                     "finished": false,
                     "matchday": 1
                 },
