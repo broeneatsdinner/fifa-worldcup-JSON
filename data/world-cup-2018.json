@@ -583,7 +583,7 @@
                     "away_team_id": 7,
                     "home_team": "Portugal",
                     "away_team": "Morocco",
-                    "home_score": "1",
+                    "home_score": "0",
                     "away_score": "0",
                     "home_scorers": null,
                     "away_scorers": null,
@@ -594,7 +594,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "89'",
+                    "time_elapsed": "92'",
                     "finished": false,
                     "matchday": 2
                 },
