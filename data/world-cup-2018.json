@@ -606,9 +606,9 @@
                     "home_team": "Iran",
                     "away_team": "Spain",
                     "home_score": "0",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "Diego Costa 54' ",
                     "date": "2018-06-20T18:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -616,7 +616,7 @@
                         7,
                         13
                     ],
-                    "time_elapsed": "52'",
+                    "time_elapsed": "57'",
                     "finished": false,
                     "matchday": 2
                 },
