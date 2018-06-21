@@ -722,9 +722,9 @@
                     "away_team_id": 11,
                     "home_team": "France",
                     "away_team": "Peru",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "0",
-                    "home_scorers": null,
+                    "home_scorers": "K. Mbappé 34' ",
                     "away_scorers": null,
                     "date": "2018-06-21T15:00:00+00:00",
                     "stadium_id": 12,
@@ -733,7 +733,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "32'",
+                    "time_elapsed": "38'",
                     "finished": false,
                     "matchday": 2
                 },
