@@ -862,9 +862,9 @@
                     "home_team": "Argentina",
                     "away_team": "Croatia",
                     "home_score": "0",
-                    "away_score": "2",
+                    "away_score": "3",
                     "home_scorers": null,
-                    "away_scorers": "L. Modric 80' A. Rebic 53' ",
+                    "away_scorers": "I. Rakitic 90'+1' L. Modric 80' A. Rebic 53' ",
                     "date": "2018-06-21T18:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
@@ -872,8 +872,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "89'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 2
                 },
                 {
