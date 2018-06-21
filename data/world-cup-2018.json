@@ -862,9 +862,9 @@
                     "home_team": "Argentina",
                     "away_team": "Croatia",
                     "home_score": "0",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "A. Rebic 53' ",
                     "date": "2018-06-21T18:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
@@ -872,7 +872,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "51'",
+                    "time_elapsed": "56'",
                     "finished": false,
                     "matchday": 2
                 },
