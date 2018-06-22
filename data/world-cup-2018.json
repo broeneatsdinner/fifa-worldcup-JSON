@@ -1000,9 +1000,9 @@
                     "away_team_id": 19,
                     "home_team": "Brazil",
                     "away_team": "Costa Rica",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "0",
-                    "home_scorers": "Coutinho 90'+1' ",
+                    "home_scorers": "Neymar 90'+7' Coutinho 90'+1' ",
                     "away_scorers": null,
                     "date": "2018-06-22T12:00:00+00:00",
                     "stadium_id": 3,
@@ -1011,8 +1011,8 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "90'+3'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 2
                 },
                 {
