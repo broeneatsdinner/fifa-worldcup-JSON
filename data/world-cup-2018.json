@@ -1023,9 +1023,9 @@
                     "home_team": "Serbia",
                     "away_team": "Switzerland",
                     "home_score": "1",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_scorers": "A. Mitrovic 5' ",
-                    "away_scorers": "G. Xhaka 52' ",
+                    "away_scorers": "X. Shaqiri 90' G. Xhaka 52' ",
                     "date": "2018-06-22T18:00:00+00:00",
                     "stadium_id": 4,
                     "channels": [
@@ -1033,8 +1033,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "88'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 2
                 },
                 {
