@@ -1002,7 +1002,7 @@
                     "away_team": "Costa Rica",
                     "home_score": "1",
                     "away_score": "0",
-                    "home_scorers": null,
+                    "home_scorers": "Coutinho 90'+1' ",
                     "away_scorers": null,
                     "date": "2018-06-22T12:00:00+00:00",
                     "stadium_id": 3,
@@ -1011,7 +1011,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "90'+1'",
+                    "time_elapsed": "90'+3'",
                     "finished": false,
                     "matchday": 2
                 },
