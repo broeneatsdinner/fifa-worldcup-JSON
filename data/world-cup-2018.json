@@ -883,9 +883,9 @@
                     "away_team_id": 14,
                     "home_team": "Nigeria",
                     "away_team": "Iceland",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "0",
-                    "home_scorers": null,
+                    "home_scorers": "A. Musa 49' ",
                     "away_scorers": null,
                     "date": "2018-06-22T15:00:00+00:00",
                     "stadium_id": 8,
@@ -894,7 +894,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "47'",
+                    "time_elapsed": "55'",
                     "finished": false,
                     "matchday": 2
                 },
