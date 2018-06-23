@@ -1279,9 +1279,9 @@
                     "home_team": "Belgium",
                     "away_team": "Tunisia",
                     "home_score": "5",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_scorers": "Michy 90' E. Hazard 51' R. Lukaku 45'+3' R. Lukaku 16' E. Hazard 6' ",
-                    "away_scorers": "D. Bronn 18' ",
+                    "away_scorers": "W. Khazri 90'+3' D. Bronn 18' ",
                     "date": "2018-06-23T12:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1289,8 +1289,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "90'+2'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 2
                 },
                 {
