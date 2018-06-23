@@ -1278,9 +1278,9 @@
                     "away_team_id": 27,
                     "home_team": "Belgium",
                     "away_team": "Tunisia",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "0",
-                    "home_scorers": "E. Hazard 6' ",
+                    "home_scorers": "R. Lukaku 16' E. Hazard 6' ",
                     "away_scorers": null,
                     "date": "2018-06-23T12:00:00+00:00",
                     "stadium_id": 2,
@@ -1289,7 +1289,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "11'",
+                    "time_elapsed": "17'",
                     "finished": false,
                     "matchday": 2
                 },
