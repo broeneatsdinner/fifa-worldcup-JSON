@@ -1139,9 +1139,9 @@
                     "away_team_id": 23,
                     "home_team": "Germany",
                     "away_team": "Sweden",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "1",
-                    "home_scorers": "M. Reus 48' ",
+                    "home_scorers": "T. Kroos 90'+5' M. Reus 48' ",
                     "away_scorers": "O. Toivonen 32' ",
                     "date": "2018-06-23T18:00:00+00:00",
                     "stadium_id": 11,
@@ -1150,8 +1150,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "90'+3'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 2
                 },
                 {
