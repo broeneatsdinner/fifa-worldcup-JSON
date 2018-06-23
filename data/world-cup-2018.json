@@ -1280,7 +1280,7 @@
                     "away_team": "Tunisia",
                     "home_score": "1",
                     "away_score": "0",
-                    "home_scorers": null,
+                    "home_scorers": "E. Hazard 6' ",
                     "away_scorers": null,
                     "date": "2018-06-23T12:00:00+00:00",
                     "stadium_id": 2,
@@ -1289,7 +1289,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "6'",
+                    "time_elapsed": "11'",
                     "finished": false,
                     "matchday": 2
                 },
