@@ -1139,9 +1139,9 @@
                     "away_team_id": 23,
                     "home_team": "Germany",
                     "away_team": "Sweden",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "1",
-                    "home_scorers": null,
+                    "home_scorers": "M. Reus 48' ",
                     "away_scorers": "O. Toivonen 32' ",
                     "date": "2018-06-23T18:00:00+00:00",
                     "stadium_id": 11,
@@ -1150,7 +1150,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "Half Time",
+                    "time_elapsed": "50'",
                     "finished": false,
                     "matchday": 2
                 },
