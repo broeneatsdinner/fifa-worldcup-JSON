@@ -1161,9 +1161,9 @@
                     "away_team_id": 22,
                     "home_team": "South Korea",
                     "away_team": "Mexico",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "2",
-                    "home_scorers": null,
+                    "home_scorers": "Son Heung-Min 90'+3' ",
                     "away_scorers": "Chicharito 66' C. Vela 26' ",
                     "date": "2018-06-23T15:00:00+00:00",
                     "stadium_id": 10,
@@ -1172,7 +1172,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "89'",
+                    "time_elapsed": "90'+4'",
                     "finished": false,
                     "matchday": 2
                 },
