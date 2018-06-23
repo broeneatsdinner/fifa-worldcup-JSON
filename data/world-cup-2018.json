@@ -1142,7 +1142,7 @@
                     "home_score": "0",
                     "away_score": "1",
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "O. Toivonen 32' ",
                     "date": "2018-06-23T18:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
@@ -1150,7 +1150,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "32'",
+                    "time_elapsed": "37'",
                     "finished": false,
                     "matchday": 2
                 },
