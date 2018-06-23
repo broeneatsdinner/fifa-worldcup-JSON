@@ -1140,7 +1140,7 @@
                     "home_team": "Germany",
                     "away_team": "Sweden",
                     "home_score": "0",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_scorers": null,
                     "away_scorers": null,
                     "date": "2018-06-23T18:00:00+00:00",
@@ -1150,7 +1150,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "27'",
+                    "time_elapsed": "32'",
                     "finished": false,
                     "matchday": 2
                 },
