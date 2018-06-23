@@ -1278,7 +1278,7 @@
                     "away_team_id": 27,
                     "home_team": "Belgium",
                     "away_team": "Tunisia",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "0",
                     "home_scorers": null,
                     "away_scorers": null,
@@ -1289,7 +1289,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "3'",
+                    "time_elapsed": "6'",
                     "finished": false,
                     "matchday": 2
                 },
