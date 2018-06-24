@@ -1482,9 +1482,9 @@
                     "home_team": "Poland",
                     "away_team": "Colombia",
                     "home_score": "0",
-                    "away_score": "1",
+                    "away_score": "3",
                     "home_scorers": null,
-                    "away_scorers": "Y. Mina 40' ",
+                    "away_scorers": "J. Cuadrado 75' Falcao 70' Y. Mina 40' ",
                     "date": "2018-06-24T18:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -1492,7 +1492,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "67'",
+                    "time_elapsed": "79'",
                     "finished": false,
                     "matchday": 2
                 },
