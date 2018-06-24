@@ -1439,7 +1439,7 @@
                     "away_team_id": 30,
                     "home_team": "Japan",
                     "away_team": "Senegal",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "1",
                     "home_scorers": null,
                     "away_scorers": "S. Mané 11' ",
@@ -1450,7 +1450,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "31'",
+                    "time_elapsed": "34'",
                     "finished": false,
                     "matchday": 2
                 },
