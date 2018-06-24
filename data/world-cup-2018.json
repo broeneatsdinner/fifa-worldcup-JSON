@@ -1442,7 +1442,7 @@
                     "home_score": "0",
                     "away_score": "1",
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "S. Mané 11 ",
                     "date": "2018-06-24T15:00:00+00:00",
                     "stadium_id": 12,
                     "channels": [
@@ -1450,7 +1450,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "12'",
+                    "time_elapsed": "16'",
                     "finished": false,
                     "matchday": 2
                 },
