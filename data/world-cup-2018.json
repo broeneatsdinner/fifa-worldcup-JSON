@@ -1439,9 +1439,9 @@
                     "away_team_id": 30,
                     "home_team": "Japan",
                     "away_team": "Senegal",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "2",
-                    "home_scorers": "T. Inui 34' ",
+                    "home_scorers": "K. Honda 78' T. Inui 34' ",
                     "away_scorers": "M. Wagué 71' S. Mané 11' ",
                     "date": "2018-06-24T15:00:00+00:00",
                     "stadium_id": 12,
@@ -1450,7 +1450,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "77'",
+                    "time_elapsed": "88'",
                     "finished": false,
                     "matchday": 2
                 },
