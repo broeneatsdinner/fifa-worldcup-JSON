@@ -1482,7 +1482,7 @@
                     "home_team": "Poland",
                     "away_team": "Colombia",
                     "home_score": "0",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_scorers": null,
                     "away_scorers": null,
                     "date": "2018-06-24T18:00:00+00:00",
@@ -1492,7 +1492,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "35'",
+                    "time_elapsed": "40'",
                     "finished": false,
                     "matchday": 2
                 },
