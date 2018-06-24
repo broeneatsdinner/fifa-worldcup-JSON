@@ -1441,7 +1441,7 @@
                     "away_team": "Senegal",
                     "home_score": "1",
                     "away_score": "1",
-                    "home_scorers": null,
+                    "home_scorers": "T. Inui 34' ",
                     "away_scorers": "S. Mané 11' ",
                     "date": "2018-06-24T15:00:00+00:00",
                     "stadium_id": 12,
@@ -1450,7 +1450,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "34'",
+                    "time_elapsed": "45'+1'",
                     "finished": false,
                     "matchday": 2
                 },
