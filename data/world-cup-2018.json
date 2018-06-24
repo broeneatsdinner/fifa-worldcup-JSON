@@ -1439,8 +1439,8 @@
                     "away_team_id": 30,
                     "home_team": "Japan",
                     "away_team": "Senegal",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "0",
                     "home_scorers": null,
                     "away_scorers": null,
                     "date": "2018-06-24T15:00:00+00:00",
@@ -1450,7 +1450,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": "",
                     "finished": false,
                     "matchday": 2
                 },
