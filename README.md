@@ -305,3 +305,25 @@ If a knockout match goes to penalties, the result may look like this:
 "winner": "Sweden",
 ...
 ```
+
+## Key Differences
+
+A few key differences to take note of, as this JSON file may differentiate from other data sources you have been using:
+
+#### 1)
+
+`home_team` is always a String, not an Integer, for example "Sweden", not 23.
+
+`away_team` is always a String, not an Integer, for example "Costa Rica", not 19.
+
+These changes were made to improve readability of the actual raw data.
+
+***
+
+#### 2)
+
+`date` is always in __UTC__ time zone, in the ISO 8601 format, for example "2018-07-15T15:00:00+00:00".
+
+These changes were made to ensure accurate date/time conversion in your own app(s), regardless of where your system is located, where you may be located, or where in Russia the match is being played.
+
+***
