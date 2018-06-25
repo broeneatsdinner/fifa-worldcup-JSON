@@ -178,8 +178,8 @@
         {
             "id": 8,
             "name": "Iran",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "groups",
             "fifa_code": "IRN",
             "iso2": "ir",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/630px-Flag_of_Iran.png",
