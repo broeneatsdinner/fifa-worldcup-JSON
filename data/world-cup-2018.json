@@ -574,9 +574,9 @@
                     "away_team_id": 3,
                     "home_team": "Saudi Arabia",
                     "away_team": "Egypt",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "1",
-                    "home_scorers": "Salman Al Faraj 45'+6' ",
+                    "home_scorers": "Salem Al Dawsari 90'+5' Salman Al Faraj 45'+6' ",
                     "away_scorers": "Mohamed Salah 22' ",
                     "date": "2018-06-25T14:00:00+00:00",
                     "stadium_id": 8,
@@ -585,8 +585,8 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "90'+3'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 3
                 }
             ]
