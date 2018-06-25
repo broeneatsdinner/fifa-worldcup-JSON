@@ -713,9 +713,9 @@
                     "away_team_id": 7,
                     "home_team": "Spain",
                     "away_team": "Morocco",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "2",
-                    "home_scorers": "Isco 19' ",
+                    "home_scorers": "Iago Aspas 90'+1' Isco 19' ",
                     "away_scorers": "Y. En-Nesyri 81' K. Boutaïb 14' ",
                     "date": "2018-06-25T18:00:00+00:00",
                     "stadium_id": 4,
@@ -724,8 +724,8 @@
                         7,
                         14
                     ],
-                    "time_elapsed": "90'+1'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 3
                 }
             ]
