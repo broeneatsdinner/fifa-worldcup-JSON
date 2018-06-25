@@ -554,7 +554,7 @@
                     "away_team": "Russia",
                     "home_score": "2",
                     "away_score": "0",
-                    "home_scorers": "D. Laxalt 23' Luis Suárez 10' ",
+                    "home_scorers": "D. Cheryshev 23' Luis Suárez 10' ",
                     "away_scorers": null,
                     "date": "2018-06-25T14:00:00+00:00",
                     "stadium_id": 7,
@@ -563,7 +563,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "36'",
+                    "time_elapsed": "41'",
                     "finished": false,
                     "matchday": 3
                 },
