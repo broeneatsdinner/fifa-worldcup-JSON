@@ -4,7 +4,7 @@ __The data file is updated every 5 minutes (approximately) during live matches._
 
 ## Usage
 
-To use the data in your app, you can use this link
+To use the data in your app, you can use this link:
 
 `
 https://raw.githubusercontent.com/broeneatsdinner/fifa-worldcup-JSON/master/data/world-cup-2018.json
