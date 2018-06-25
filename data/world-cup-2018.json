@@ -691,9 +691,9 @@
                     "away_team_id": 5,
                     "home_team": "Iran",
                     "away_team": "Portugal",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "1",
-                    "home_scorers": null,
+                    "home_scorers": "K. Ansarifard 90'+3' ",
                     "away_scorers": "Ricardo Quaresma 45' ",
                     "date": "2018-06-25T18:00:00+00:00",
                     "stadium_id": 9,
@@ -702,8 +702,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "90'+1'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 3
                 },
                 {
