@@ -713,10 +713,10 @@
                     "away_team_id": 7,
                     "home_team": "Spain",
                     "away_team": "Morocco",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "1",
-                    "home_scorers": null,
-                    "away_scorers": null,
+                    "home_scorers": "Isco 19' ",
+                    "away_scorers": "K. Boutaïb 14' ",
                     "date": "2018-06-25T18:00:00+00:00",
                     "stadium_id": 4,
                     "channels": [
@@ -724,7 +724,7 @@
                         7,
                         14
                     ],
-                    "time_elapsed": "14'",
+                    "time_elapsed": "23'",
                     "finished": false,
                     "matchday": 3
                 }
