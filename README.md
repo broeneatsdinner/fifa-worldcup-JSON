@@ -327,3 +327,28 @@ These changes were made to improve readability of the actual raw data.
 These changes were made to ensure accurate date/time conversion in your own app(s), regardless of where your system is located, where you may be located, or where in Russia the match is being played.
 
 ***
+
+#### 3)
+
+`winner` and `loser` have been added to all __knockout__ matches in all rounds. The fields are Strings indicating the team's name.
+
+These changes were made to improve readability of the raw data, and prevent small recursive lookups of losing team names in apps.
+
+***
+
+#### 4)
+
+`eliminated` was added to the __teams__ data, and is a Boolean. This field indicates whether a given team has been eliminated from advancing to the next stage in the tournament.
+
+`eliminated_at_which_stage` was added to the __teams__ data, and is a String. This field indicates at which stage the team was eliminated, and will always be either:
+
+- `"groups"`
+- `"round_16"`
+- `"round_8"`
+- `"round_4"`
+- `"round_2_loser"`
+- `"round_2"`
+
+These changes were made as a request.
+
+***
