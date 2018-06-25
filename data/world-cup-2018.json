@@ -552,9 +552,9 @@
                     "away_team_id": 1,
                     "home_team": "Uruguay",
                     "away_team": "Russia",
-                    "home_score": "2",
+                    "home_score": "3",
                     "away_score": "0",
-                    "home_scorers": "D. Cheryshev 23' Luis Suárez 10' ",
+                    "home_scorers": "E. Cavani 90' D. Cheryshev 23' Luis Suárez 10' ",
                     "away_scorers": null,
                     "date": "2018-06-25T14:00:00+00:00",
                     "stadium_id": 7,
@@ -563,7 +563,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "90'",
+                    "time_elapsed": "90'+3'",
                     "finished": false,
                     "matchday": 3
                 },
