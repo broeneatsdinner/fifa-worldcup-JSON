@@ -1002,8 +1002,8 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "90'+4'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 3
                 }
             ]
