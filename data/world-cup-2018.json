@@ -992,9 +992,9 @@
                     "home_team": "Iceland",
                     "away_team": "Croatia",
                     "home_score": "1",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_scorers": "Gylfi Sigurdsson 76' ",
-                    "away_scorers": "M. Badelj 53' ",
+                    "away_scorers": "I. Perisic 90' M. Badelj 53' ",
                     "date": "2018-06-26T18:00:00+00:00",
                     "stadium_id": 10,
                     "channels": [
@@ -1002,7 +1002,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "88'",
+                    "time_elapsed": "90'+4'",
                     "finished": false,
                     "matchday": 3
                 }
