@@ -970,9 +970,9 @@
                     "home_team": "Nigeria",
                     "away_team": "Argentina",
                     "home_score": "1",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_scorers": "V. Moses 51' ",
-                    "away_scorers": "L. Messi 14' ",
+                    "away_scorers": "M. Rojo 86' L. Messi 14' ",
                     "date": "2018-06-26T18:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
@@ -980,7 +980,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "85'",
+                    "time_elapsed": "90'",
                     "finished": false,
                     "matchday": 3
                 },
