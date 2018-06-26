@@ -244,8 +244,8 @@
         {
             "id": 14,
             "name": "Iceland",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "groups",
             "fifa_code": "ISL",
             "iso2": "is",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.png",
@@ -266,8 +266,8 @@
         {
             "id": 16,
             "name": "Nigeria",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "groups",
             "fifa_code": "NGA",
             "iso2": "ng",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/800px-Flag_of_Nigeria.png",
