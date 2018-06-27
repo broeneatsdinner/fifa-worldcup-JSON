@@ -1270,7 +1270,7 @@
                     "home_team": "Mexico",
                     "away_team": "Sweden",
                     "home_score": "0",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_scorers": null,
                     "away_scorers": "L. Augustinsson 50' ",
                     "date": "2018-06-27T14:00:00+00:00",
@@ -1280,7 +1280,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "57'",
+                    "time_elapsed": "62'",
                     "finished": false,
                     "matchday": 3
                 }
