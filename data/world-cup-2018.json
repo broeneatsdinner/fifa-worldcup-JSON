@@ -321,8 +321,8 @@
         {
             "id": 21,
             "name": "Germany",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "groups",
             "fifa_code": "GER",
             "iso2": "de",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png",
@@ -354,8 +354,8 @@
         {
             "id": 24,
             "name": "South Korea",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "groups",
             "fifa_code": "KOR",
             "iso2": "kr",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/900px-Flag_of_South_Korea.png",
