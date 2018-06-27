@@ -1111,7 +1111,7 @@
                     "home_score": "0",
                     "away_score": "2",
                     "home_scorers": null,
-                    "away_scorers": "Paulinho 36' ",
+                    "away_scorers": "Thiago Silva 68' Paulinho 36' ",
                     "date": "2018-06-27T18:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1119,7 +1119,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "68'",
+                    "time_elapsed": "73'",
                     "finished": false,
                     "matchday": 3
                 },
