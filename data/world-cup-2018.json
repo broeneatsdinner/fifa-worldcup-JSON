@@ -1130,9 +1130,9 @@
                     "away_team_id": 19,
                     "home_team": "Switzerland",
                     "away_team": "Costa Rica",
-                    "home_score": "1",
+                    "home_score": "2",
                     "away_score": "1",
-                    "home_scorers": "B. Dzemaili 31' ",
+                    "home_scorers": "J. Drmic 88' B. Dzemaili 31' ",
                     "away_scorers": "K. Waston 56' ",
                     "date": "2018-06-27T18:00:00+00:00",
                     "stadium_id": 6,
@@ -1141,7 +1141,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "83'",
+                    "time_elapsed": "89'",
                     "finished": false,
                     "matchday": 3
                 }
