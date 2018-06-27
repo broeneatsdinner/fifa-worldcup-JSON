@@ -1109,7 +1109,7 @@
                     "home_team": "Serbia",
                     "away_team": "Brazil",
                     "home_score": "0",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_scorers": null,
                     "away_scorers": "Paulinho 36' ",
                     "date": "2018-06-27T18:00:00+00:00",
@@ -1119,7 +1119,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "63'",
+                    "time_elapsed": "68'",
                     "finished": false,
                     "matchday": 3
                 },
