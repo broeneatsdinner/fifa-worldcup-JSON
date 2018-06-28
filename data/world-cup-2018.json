@@ -1525,8 +1525,8 @@
                     "away_team_id": 29,
                     "home_team": "Japan",
                     "away_team": "Poland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "0",
                     "home_scorers": null,
                     "away_scorers": null,
                     "date": "2018-06-28T14:00:00+00:00",
@@ -1536,7 +1536,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": "",
                     "finished": false,
                     "matchday": 3
                 },
