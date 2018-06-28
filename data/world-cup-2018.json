@@ -310,8 +310,8 @@
         {
             "id": 20,
             "name": "Serbia",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "groups",
             "fifa_code": "SRB",
             "iso2": "rs",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png",
@@ -420,8 +420,8 @@
         {
             "id": 30,
             "name": "Senegal",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "groups",
             "fifa_code": "SEN",
             "iso2": "sn",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/900px-Flag_of_Senegal.svg.png",
