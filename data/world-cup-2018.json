@@ -1548,9 +1548,9 @@
                     "home_team": "Senegal",
                     "away_team": "Colombia",
                     "home_score": "0",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "Y. Mina 74' ",
                     "date": "2018-06-28T14:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
@@ -1558,7 +1558,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "72'",
+                    "time_elapsed": "81'",
                     "finished": false,
                     "matchday": 3
                 }
