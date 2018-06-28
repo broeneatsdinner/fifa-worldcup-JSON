@@ -1409,9 +1409,9 @@
                     "home_team": "Panama",
                     "away_team": "Tunisia",
                     "home_score": "1",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_scorers": "Y. Meriah 33' (OG) ",
-                    "away_scorers": "Fakhreddine Ben Yous 51' ",
+                    "away_scorers": "W. Khazri 66' Fakhreddine Ben Yous 51' ",
                     "date": "2018-06-28T18:00:00+00:00",
                     "stadium_id": 9,
                     "channels": [
@@ -1419,7 +1419,7 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "64'",
+                    "time_elapsed": "70'",
                     "finished": false,
                     "matchday": 3
                 }
