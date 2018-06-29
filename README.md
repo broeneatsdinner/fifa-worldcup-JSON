@@ -2,6 +2,10 @@
 
 __The data file is updated every 5 minutes (approximately) during live matches.__
 
+## Efficacy
+
+Mike Riordan called this cool. Therefore, success is imminent if not already achieved.
+
 ## Usage
 
 To use the data in your app, you can use this link:
