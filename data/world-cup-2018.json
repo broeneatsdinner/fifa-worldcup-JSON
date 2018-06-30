@@ -1578,8 +1578,8 @@
                     "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
-                    "loser": null,
+                    "winner": "Uruguay",
+                    "loser": "Portugal",
                     "home_scorers": "E. Cavani 62' E. Cavani 7' ",
                     "away_scorers": "Pepe 55' ",
                     "date": "2018-06-30T18:00:00+00:00",
@@ -1588,8 +1588,8 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "90'+2'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 4
                 },
                 {
