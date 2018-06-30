@@ -1597,14 +1597,14 @@
                     "type": "qualified",
                     "home_team": "France",
                     "away_team": "Argentina",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "4",
+                    "away_score": "3",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": null,
-                    "away_scorers": null,
+                    "home_scorers": "K. Mbappé 68' K. Mbappé 64' B. Pavard 57' A. Griezmann 13' (P) ",
+                    "away_scorers": "G. Mercado 48' Á. Di María 41' ",
                     "date": "2018-06-30T14:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
@@ -1612,7 +1612,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": "90'+3'",
                     "finished": false,
                     "matchday": 4
                 },
