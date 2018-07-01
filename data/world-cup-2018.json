@@ -1767,8 +1767,8 @@
                 {
                     "id": 57,
                     "type": "winner",
-                    "home_team": "match_id 49 winner",
-                    "away_team": "match_id 50 winner",
+                    "home_team": "Uruguay",
+                    "away_team": "France",
                     "home_score": null,
                     "away_score": null,
                     "home_penalty": null,
@@ -1813,8 +1813,8 @@
                 {
                     "id": 59,
                     "type": "winner",
-                    "home_team": "match_id 51 winner",
-                    "away_team": "match_id 52 winner",
+                    "home_team": "Russia",
+                    "away_team": "Croatia",
                     "home_score": null,
                     "away_score": null,
                     "home_penalty": null,
