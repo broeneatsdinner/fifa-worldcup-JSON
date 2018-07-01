@@ -1628,14 +1628,14 @@
                     "winner": null,
                     "loser": null,
                     "home_scorers": "S. Ignashevich 12' (OG) ",
-                    "away_scorers": null,
+                    "away_scorers": "A. Dzyuba 41 (P) ",
                     "date": "2018-07-01T14:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
                         3,
                         13
                     ],
-                    "time_elapsed": "32'",
+                    "time_elapsed": "41'",
                     "finished": false,
                     "matchday": 4
                 },
