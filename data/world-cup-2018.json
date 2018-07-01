@@ -1622,20 +1622,20 @@
                     "home_team": "Spain",
                     "away_team": "Russia",
                     "home_score": "1",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
                     "home_scorers": "S. Ignashevich 12' (OG) ",
-                    "away_scorers": "A. Dzyuba 41 (P) ",
+                    "away_scorers": "A. Dzyuba 41' (P) ",
                     "date": "2018-07-01T14:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
                         3,
                         13
                     ],
-                    "time_elapsed": "41'",
+                    "time_elapsed": "45'",
                     "finished": false,
                     "matchday": 4
                 },
