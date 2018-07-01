@@ -1644,12 +1644,12 @@
                     "type": "qualified",
                     "home_team": "Croatia",
                     "away_team": "Denmark",
-                    "home_score": "1 (1)",
+                    "home_score": "1 (3)",
                     "away_score": "1 (2)",
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
-                    "loser": null,
+                    "winner": "Croatia",
+                    "loser": "Denmark",
                     "home_scorers": "M. Mandzukic 4' ",
                     "away_scorers": "Zanka 1' ",
                     "date": "2018-07-01T18:00:00+00:00",
@@ -1659,8 +1659,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "122'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 4
                 },
                 {
