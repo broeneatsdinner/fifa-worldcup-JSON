@@ -1627,7 +1627,7 @@
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": "S. Ignashevich 11' (OG) ",
+                    "home_scorers": "S. Ignashevich 12' (OG) ",
                     "away_scorers": null,
                     "date": "2018-07-01T14:00:00+00:00",
                     "stadium_id": 1,
@@ -1635,7 +1635,7 @@
                         3,
                         13
                     ],
-                    "time_elapsed": "15'",
+                    "time_elapsed": "27'",
                     "finished": false,
                     "matchday": 4
                 },
