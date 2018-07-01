@@ -1644,8 +1644,8 @@
                     "type": "qualified",
                     "home_team": "Croatia",
                     "away_team": "Denmark",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
@@ -1659,7 +1659,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": "1'",
                     "finished": false,
                     "matchday": 4
                 },
