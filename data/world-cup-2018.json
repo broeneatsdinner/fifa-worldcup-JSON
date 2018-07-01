@@ -145,8 +145,8 @@
         {
             "id": 5,
             "name": "Portugal",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_16",
             "fifa_code": "POR",
             "iso2": "pt",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png",
@@ -156,8 +156,8 @@
         {
             "id": 6,
             "name": "Spain",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_16",
             "fifa_code": "ESP",
             "iso2": "es",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png",
@@ -222,8 +222,8 @@
         {
             "id": 12,
             "name": "Denmark",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_16",
             "fifa_code": "DEN",
             "iso2": "dk",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/740px-Flag_of_Denmark.png",
@@ -233,8 +233,8 @@
         {
             "id": 13,
             "name": "Argentina",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_16",
             "fifa_code": "ARG",
             "iso2": "ar",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png",
