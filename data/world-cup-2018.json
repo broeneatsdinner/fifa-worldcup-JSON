@@ -1621,8 +1621,8 @@
                     "type": "qualified",
                     "home_team": "Spain",
                     "away_team": "Russia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "0",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
@@ -1635,7 +1635,7 @@
                         3,
                         13
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": "3'",
                     "finished": false,
                     "matchday": 4
                 },
