@@ -1692,13 +1692,13 @@
                     "type": "qualified",
                     "home_team": "Belgium",
                     "away_team": "Japan",
-                    "home_score": "2",
+                    "home_score": "3",
                     "away_score": "2",
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
-                    "loser": null,
-                    "home_scorers": "M. Fellaini 74' J. Vertonghen 69' ",
+                    "winner": "Belgium",
+                    "loser": "Japan",
+                    "home_scorers": "N. Chadli 90'+4' M. Fellaini 74' J. Vertonghen 69' ",
                     "away_scorers": "T. Inui 52' G. Haraguchi 48' ",
                     "date": "2018-07-02T18:00:00+00:00",
                     "stadium_id": 10,
@@ -1707,8 +1707,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "86'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 4
                 },
                 {
