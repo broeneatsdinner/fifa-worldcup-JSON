@@ -1698,7 +1698,7 @@
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": "J. Vertonghen 69' ",
+                    "home_scorers": "M. Fellaini 74' J. Vertonghen 69' ",
                     "away_scorers": "T. Inui 52' G. Haraguchi 48' ",
                     "date": "2018-07-02T18:00:00+00:00",
                     "stadium_id": 10,
@@ -1707,7 +1707,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "75'",
+                    "time_elapsed": "79'",
                     "finished": false,
                     "matchday": 4
                 },
