@@ -1699,7 +1699,7 @@
                     "winner": null,
                     "loser": null,
                     "home_scorers": null,
-                    "away_scorers": "G. Haraguchi 48' ",
+                    "away_scorers": "T. Inui 52' G. Haraguchi 48' ",
                     "date": "2018-07-02T18:00:00+00:00",
                     "stadium_id": 10,
                     "channels": [
@@ -1707,7 +1707,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "52'",
+                    "time_elapsed": "59'",
                     "finished": false,
                     "matchday": 4
                 },
