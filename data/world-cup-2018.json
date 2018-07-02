@@ -1693,7 +1693,7 @@
                     "home_team": "Belgium",
                     "away_team": "Japan",
                     "home_score": "0",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
@@ -1707,7 +1707,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "50'",
+                    "time_elapsed": "52'",
                     "finished": false,
                     "matchday": 4
                 },
