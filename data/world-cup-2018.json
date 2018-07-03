@@ -1740,13 +1740,13 @@
                     "type": "qualified",
                     "home_team": "Colombia",
                     "away_team": "England",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": null,
+                    "home_scorers": "Y. Mina 90'+3' ",
                     "away_scorers": "H. Kane 57' (P) ",
                     "date": "2018-07-03T18:00:00+00:00",
                     "stadium_id": 2,
@@ -1755,7 +1755,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "83'",
+                    "time_elapsed": "90'+7'",
                     "finished": false,
                     "matchday": 4
                 }
