@@ -1742,10 +1742,10 @@
                     "away_team": "England",
                     "home_score": "1",
                     "away_score": "1",
-                    "home_penalty": "1",
-                    "away_penalty": "0",
-                    "winner": null,
-                    "loser": null,
+                    "home_penalty": "3",
+                    "away_penalty": "4",
+                    "winner": "England",
+                    "loser": "Colombia",
                     "home_scorers": "Y. Mina 90'+3' ",
                     "away_scorers": "H. Kane 57' (P) ",
                     "date": "2018-07-03T18:00:00+00:00",
@@ -1755,8 +1755,8 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "122'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 4
                 }
             ]
