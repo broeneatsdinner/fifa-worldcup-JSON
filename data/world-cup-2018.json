@@ -1836,7 +1836,7 @@
                 {
                     "id": 60,
                     "type": "winner",
-                    "home_team": "match_id 55 winner",
+                    "home_team": "Sweden",
                     "away_team": "match_id 56 winner",
                     "home_score": null,
                     "away_score": null,
