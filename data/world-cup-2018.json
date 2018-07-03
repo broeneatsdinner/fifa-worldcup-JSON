@@ -1742,8 +1742,8 @@
                     "away_team": "England",
                     "home_score": "1",
                     "away_score": "1",
-                    "home_penalty": null,
-                    "away_penalty": null,
+                    "home_penalty": "1",
+                    "away_penalty": "0",
                     "winner": null,
                     "loser": null,
                     "home_scorers": "Y. Mina 90'+3' ",
@@ -1755,7 +1755,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "117'",
+                    "time_elapsed": "122'",
                     "finished": false,
                     "matchday": 4
                 }
