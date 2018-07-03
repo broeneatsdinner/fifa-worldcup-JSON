@@ -431,8 +431,8 @@
         {
             "id": 31,
             "name": "Colombia",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_16",
             "fifa_code": "COL",
             "iso2": "co",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/450px-Flag_of_Colombia.png",
