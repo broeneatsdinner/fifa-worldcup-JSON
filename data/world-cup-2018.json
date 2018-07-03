@@ -1720,8 +1720,8 @@
                     "away_score": "0",
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
-                    "loser": null,
+                    "winner": "Sweden",
+                    "loser": "Switzerland",
                     "home_scorers": "E. Forsberg 66' ",
                     "away_scorers": null,
                     "date": "2018-07-03T14:00:00+00:00",
@@ -1731,8 +1731,8 @@
                         6,
                         14
                     ],
-                    "time_elapsed": "85'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 4
                 },
                 {
