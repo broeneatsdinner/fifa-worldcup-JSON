@@ -1741,13 +1741,13 @@
                     "home_team": "Colombia",
                     "away_team": "England",
                     "home_score": "0",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "H. Kane 57' (P) ",
                     "date": "2018-07-03T18:00:00+00:00",
                     "stadium_id": 2,
                     "channels": [
@@ -1755,7 +1755,7 @@
                         6,
                         13
                     ],
-                    "time_elapsed": "56'",
+                    "time_elapsed": "62'",
                     "finished": false,
                     "matchday": 4
                 }
