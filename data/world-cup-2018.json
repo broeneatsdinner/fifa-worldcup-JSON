@@ -1798,7 +1798,7 @@
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": null,
+                    "home_scorers": "Renato Augusto 76' ",
                     "away_scorers": "K. De Bruyne 31' Fernandinho 13' (OG) ",
                     "date": "2018-07-06T18:00:00+00:00",
                     "stadium_id": 5,
@@ -1806,7 +1806,7 @@
                         3,
                         14
                     ],
-                    "time_elapsed": "78'",
+                    "time_elapsed": "83'",
                     "finished": false,
                     "matchday": 5
                 },
