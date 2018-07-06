@@ -134,8 +134,8 @@
         {
             "id": 4,
             "name": "Uruguay",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_8",
             "fifa_code": "URU",
             "iso2": "uy",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png",
