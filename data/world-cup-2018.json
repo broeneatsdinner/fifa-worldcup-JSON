@@ -1797,7 +1797,7 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
-                    "loser": null,
+                    "loser": "Brazil",
                     "home_scorers": "Renato Augusto 76' ",
                     "away_scorers": "K. De Bruyne 31' Fernandinho 13' (OG) ",
                     "date": "2018-07-06T18:00:00+00:00",
@@ -1806,8 +1806,8 @@
                         3,
                         14
                     ],
-                    "time_elapsed": "90'+4'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 5
                 },
                 {
