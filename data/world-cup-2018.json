@@ -277,8 +277,8 @@
         {
             "id": 17,
             "name": "Brazil",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_8",
             "fifa_code": "BRA",
             "iso2": "br",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.png",
