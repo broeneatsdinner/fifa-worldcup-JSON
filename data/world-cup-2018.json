@@ -1770,7 +1770,7 @@
                     "home_team": "Uruguay",
                     "away_team": "France",
                     "home_score": "0",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
@@ -1783,7 +1783,7 @@
                         3,
                         14
                     ],
-                    "time_elapsed": "22'",
+                    "time_elapsed": "40'",
                     "finished": false,
                     "matchday": 5
                 },
