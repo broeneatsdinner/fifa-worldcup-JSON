@@ -1770,20 +1770,20 @@
                     "home_team": "Uruguay",
                     "away_team": "France",
                     "home_score": "0",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
                     "home_scorers": null,
-                    "away_scorers": "R. Varane 40' ",
+                    "away_scorers": "A. Griezmann 61' R. Varane 40' ",
                     "date": "2018-07-06T14:00:00+00:00",
                     "stadium_id": 6,
                     "channels": [
                         3,
                         14
                     ],
-                    "time_elapsed": "55'",
+                    "time_elapsed": "63'",
                     "finished": false,
                     "matchday": 5
                 },
