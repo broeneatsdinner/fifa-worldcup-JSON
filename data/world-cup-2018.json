@@ -1774,7 +1774,7 @@
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
-                    "loser": null,
+                    "loser": "Uruguay",
                     "home_scorers": null,
                     "away_scorers": "A. Griezmann 61' R. Varane 40' ",
                     "date": "2018-07-06T14:00:00+00:00",
@@ -1783,8 +1783,8 @@
                         3,
                         14
                     ],
-                    "time_elapsed": "90'+4'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 5
                 },
                 {
