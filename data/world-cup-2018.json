@@ -1793,20 +1793,20 @@
                     "home_team": "Brazil",
                     "away_team": "Belgium",
                     "home_score": "0",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
                     "home_scorers": null,
-                    "away_scorers": "Fernandinho 13' (OG) ",
+                    "away_scorers": "K. De Bruyne 31' Fernandinho 13' (OG) ",
                     "date": "2018-07-06T18:00:00+00:00",
                     "stadium_id": 5,
                     "channels": [
                         3,
                         14
                     ],
-                    "time_elapsed": "30'",
+                    "time_elapsed": "35'",
                     "finished": false,
                     "matchday": 5
                 },
