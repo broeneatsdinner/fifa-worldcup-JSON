@@ -1817,8 +1817,8 @@
                     "away_team": "Croatia",
                     "home_score": "2",
                     "away_score": "2",
-                    "home_penalty": null,
-                    "away_penalty": null,
+                    "home_penalty": "1",
+                    "away_penalty": "1",
                     "winner": null,
                     "loser": null,
                     "home_scorers": "Mario Fernandes 115' D. Cheryshev 31' ",
@@ -1829,7 +1829,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "120'+2'",
+                    "time_elapsed": "122'",
                     "finished": false,
                     "matchday": 5
                 },
