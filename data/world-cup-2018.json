@@ -101,8 +101,8 @@
         {
             "id": 1,
             "name": "Russia",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_8",
             "fifa_code": "RUS",
             "iso2": "ru",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/900px-Flag_of_Russia.png",
