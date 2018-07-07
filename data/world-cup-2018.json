@@ -1822,14 +1822,14 @@
                     "winner": null,
                     "loser": null,
                     "home_scorers": "D. Cheryshev 31' ",
-                    "away_scorers": "A. Kramaric 39' ",
+                    "away_scorers": "D. Vida 100' A. Kramaric 39' ",
                     "date": "2018-07-07T18:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
                         4,
                         13
                     ],
-                    "time_elapsed": "102'",
+                    "time_elapsed": "105'",
                     "finished": false,
                     "matchday": 5
                 },
