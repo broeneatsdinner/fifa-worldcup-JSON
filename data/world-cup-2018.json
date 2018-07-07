@@ -343,8 +343,8 @@
         {
             "id": 23,
             "name": "Sweden",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_8",
             "fifa_code": "SWE",
             "iso2": "se",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1600px-Flag_of_Sweden.png",
