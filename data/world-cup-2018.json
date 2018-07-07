@@ -1821,7 +1821,7 @@
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": null,
+                    "home_scorers": "D. Cheryshev 31' ",
                     "away_scorers": null,
                     "date": "2018-07-07T18:00:00+00:00",
                     "stadium_id": 11,
@@ -1829,7 +1829,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "31'",
+                    "time_elapsed": "37'",
                     "finished": false,
                     "matchday": 5
                 },
