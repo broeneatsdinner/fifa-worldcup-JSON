@@ -1815,7 +1815,7 @@
                     "type": "winner",
                     "home_team": "Russia",
                     "away_team": "Croatia",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "0",
                     "home_penalty": null,
                     "away_penalty": null,
@@ -1829,7 +1829,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "18'",
+                    "time_elapsed": "31'",
                     "finished": false,
                     "matchday": 5
                 },
