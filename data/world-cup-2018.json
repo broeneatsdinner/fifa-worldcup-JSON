@@ -1816,20 +1816,20 @@
                     "home_team": "Russia",
                     "away_team": "Croatia",
                     "home_score": "1",
-                    "away_score": "0",
+                    "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
                     "home_scorers": "D. Cheryshev 31' ",
-                    "away_scorers": null,
+                    "away_scorers": "A. Kramaric 39' ",
                     "date": "2018-07-07T18:00:00+00:00",
                     "stadium_id": 11,
                     "channels": [
                         4,
                         13
                     ],
-                    "time_elapsed": "39'",
+                    "time_elapsed": "45'+1'",
                     "finished": false,
                     "matchday": 5
                 },
