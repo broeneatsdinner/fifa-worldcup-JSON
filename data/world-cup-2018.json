@@ -1839,20 +1839,20 @@
                     "home_team": "Sweden",
                     "away_team": "England",
                     "home_score": "0",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
                     "home_scorers": null,
-                    "away_scorers": "H. Maguire 30' ",
+                    "away_scorers": "Dele Alli 58' H. Maguire 30' ",
                     "date": "2018-07-07T14:00:00+00:00",
                     "stadium_id": 7,
                     "channels": [
                         4,
                         13
                     ],
-                    "time_elapsed": "46'",
+                    "time_elapsed": "58'",
                     "finished": false,
                     "matchday": 5
                 }
