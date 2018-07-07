@@ -1816,7 +1816,7 @@
                     "home_team": "Russia",
                     "away_team": "Croatia",
                     "home_score": "1",
-                    "away_score": "1",
+                    "away_score": "2",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
@@ -1829,7 +1829,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "91'",
+                    "time_elapsed": "102'",
                     "finished": false,
                     "matchday": 5
                 },
