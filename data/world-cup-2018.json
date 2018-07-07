@@ -1838,8 +1838,8 @@
                     "type": "winner",
                     "home_team": "Sweden",
                     "away_team": "England",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "0",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
@@ -1852,7 +1852,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": "",
                     "finished": false,
                     "matchday": 5
                 }
