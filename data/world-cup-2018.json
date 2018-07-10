@@ -1870,8 +1870,8 @@
                     "away_score": "0",
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
-                    "loser": null,
+                    "winner": "France",
+                    "loser": "Belgium",
                     "home_scorers": "S. Umtiti 51' ",
                     "away_scorers": null,
                     "date": "2018-07-10T18:00:00+00:00",
@@ -1880,8 +1880,8 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "90'+3'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 6
                 },
                 {
