@@ -365,8 +365,8 @@
         {
             "id": 25,
             "name": "Belgium",
-            "eliminated": false,
-            "eliminated_at_which_stage": null,
+            "eliminated": true,
+            "eliminated_at_which_stage": "round_4",
             "fifa_code": "BEL",
             "iso2": "be",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/450px-Flag_of_Belgium.png",
