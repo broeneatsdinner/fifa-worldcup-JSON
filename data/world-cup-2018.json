@@ -1893,8 +1893,8 @@
                     "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
-                    "loser": null,
+                    "winner": "Croatia",
+                    "loser": "England",
                     "home_scorers": "M. Mandzukic 109' I. Perisic 68' ",
                     "away_scorers": "K. Trippier 5' ",
                     "date": "2018-07-11T18:00:00+00:00",
@@ -1903,8 +1903,8 @@
                         3,
                         13
                     ],
-                    "time_elapsed": "120'+2'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 6
                 }
             ]
