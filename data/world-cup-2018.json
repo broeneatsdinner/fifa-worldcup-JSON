@@ -1889,13 +1889,13 @@
                     "type": "winner",
                     "home_team": "Croatia",
                     "away_team": "England",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": null,
+                    "home_scorers": "I. Perisic 68' ",
                     "away_scorers": "K. Trippier 5' ",
                     "date": "2018-07-11T18:00:00+00:00",
                     "stadium_id": 1,
@@ -1903,7 +1903,7 @@
                         3,
                         13
                     ],
-                    "time_elapsed": "65'",
+                    "time_elapsed": "70'",
                     "finished": false,
                     "matchday": 6
                 }
