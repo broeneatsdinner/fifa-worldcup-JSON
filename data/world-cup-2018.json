@@ -1896,14 +1896,14 @@
                     "winner": null,
                     "loser": null,
                     "home_scorers": null,
-                    "away_scorers": null,
+                    "away_scorers": "K. Trippier 5' ",
                     "date": "2018-07-11T18:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
                         3,
                         13
                     ],
-                    "time_elapsed": "5'",
+                    "time_elapsed": "17'",
                     "finished": false,
                     "matchday": 6
                 }
