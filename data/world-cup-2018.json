@@ -1915,7 +1915,7 @@
                 {
                     "id": 63,
                     "type": "loser",
-                    "home_team": "match_id 61 loser",
+                    "home_team": "Belgium",
                     "away_team": "match_id 62 loser",
                     "home_score": null,
                     "away_score": null,
@@ -1943,7 +1943,7 @@
                 {
                     "id": 64,
                     "type": "winner",
-                    "home_team": "match_id 61 winner",
+                    "home_team": "France",
                     "away_team": "match_id 62 winner",
                     "home_score": null,
                     "away_score": null,
