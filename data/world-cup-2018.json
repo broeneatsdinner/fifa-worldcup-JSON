@@ -1921,8 +1921,8 @@
                     "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
-                    "loser": null,
+                    "winner": "Belgium",
+                    "loser": "England",
                     "home_scorers": "2",
                     "away_scorers": "A. Januzaj 51' ",
                     "date": "2018-07-14T14:00:00+00:00",
@@ -1931,8 +1931,8 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "87'",
-                    "finished": false,
+                    "time_elapsed": "Final",
+                    "finished": true,
                     "matchday": 7
                 }
             ]
