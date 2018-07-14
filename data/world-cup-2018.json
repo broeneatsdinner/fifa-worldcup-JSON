@@ -399,7 +399,7 @@
             "id": 28,
             "name": "England",
             "eliminated": true,
-            "eliminated_at_which_stage": "round_4",
+            "eliminated_at_which_stage": "round_2_loser",
             "fifa_code": "ENG",
             "iso2": "gb-eng",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png",
