@@ -1917,21 +1917,21 @@
                     "type": "loser",
                     "home_team": "Belgium",
                     "away_team": "England",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": "0",
+                    "away_score": "1",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": null,
-                    "away_scorers": null,
+                    "home_scorers": "0",
+                    "away_scorers": "A. Januzaj 51' ",
                     "date": "2018-07-14T14:00:00+00:00",
                     "stadium_id": 3,
                     "channels": [
                         4,
                         13
                     ],
-                    "time_elapsed": null,
+                    "time_elapsed": "1'",
                     "finished": false,
                     "matchday": 7
                 }
