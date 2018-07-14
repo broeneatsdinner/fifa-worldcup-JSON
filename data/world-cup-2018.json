@@ -1923,7 +1923,7 @@
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": "1",
+                    "home_scorers": "2",
                     "away_scorers": "A. Januzaj 51' ",
                     "date": "2018-07-14T14:00:00+00:00",
                     "stadium_id": 3,
@@ -1931,7 +1931,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "78'",
+                    "time_elapsed": "84'",
                     "finished": false,
                     "matchday": 7
                 }
