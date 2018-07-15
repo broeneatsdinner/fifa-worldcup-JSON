@@ -1945,14 +1945,14 @@
                     "type": "winner",
                     "home_team": "France",
                     "away_team": "Croatia",
-                    "home_score": "3",
-                    "away_score": "1",
+                    "home_score": "4",
+                    "away_score": "2",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": "P. Pogba 59' A. Griezmann 38' (P) M. Mandzukic 18' (OG) ",
-                    "away_scorers": "I. Perisic 28' ",
+                    "home_scorers": "K. Mbappé 65' P. Pogba 59' A. Griezmann 38' (P) M. Mandzukic 18' (OG) ",
+                    "away_scorers": "M. Mandzukic 69' I. Perisic 28' ",
                     "date": "2018-07-15T15:00:00+00:00",
                     "stadium_id": 1,
                     "channels": [
@@ -1960,7 +1960,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "61'",
+                    "time_elapsed": "75'",
                     "finished": false,
                     "matchday": 7
                 }
