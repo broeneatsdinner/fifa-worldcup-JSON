@@ -1945,13 +1945,13 @@
                     "type": "winner",
                     "home_team": "France",
                     "away_team": "Croatia",
-                    "home_score": "0",
+                    "home_score": "1",
                     "away_score": "0",
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
                     "loser": null,
-                    "home_scorers": null,
+                    "home_scorers": "M. Mandzukic 18' (OG) ",
                     "away_scorers": null,
                     "date": "2018-07-15T15:00:00+00:00",
                     "stadium_id": 1,
@@ -1960,7 +1960,7 @@
                         4,
                         13
                     ],
-                    "time_elapsed": "17'",
+                    "time_elapsed": "20'",
                     "finished": false,
                     "matchday": 7
                 }
